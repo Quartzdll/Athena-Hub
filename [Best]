@@ -1,0 +1,13 @@
+-- Athena Hub Loader
+
+local Support = {
+    [1312971993] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Simulator"
+    }
+
+local GameId = game.GameId
+
+if Support[GameId] then
+    loadstring(game:HttpGet(Support[GameId]))()
+else
+    warn("Athena Hub does not support this game yet!")
+end
