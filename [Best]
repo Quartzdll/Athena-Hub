@@ -1,7 +1,7 @@
 -- Athena Hub Loader
 
 local Support = {
-    [1312971993] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Simulator"
+    [4430449940] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Showdown"
     }
 
 local GameId = game.GameId
