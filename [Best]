@@ -1,7 +1,8 @@
 -- Athena Hub Loader
 
 local Support = {
-    [4430449940] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Showdown"
+    [4430449940] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Showdown",
+    [6931042565] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Haikyuu"
     }
 
 local GameId = game.GameId
