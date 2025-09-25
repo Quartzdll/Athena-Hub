@@ -3,7 +3,8 @@
 local Support = {
     [4430449940] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Showdown",
     [6931042565] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Haikyuu",
-    [111958650] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Arsenal"
+    [111958650] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Arsenal",
+    [6701277882] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Fish%20It"
     }
 
 local GameId = game.GameId
