@@ -1,11 +1,13 @@
 -- Athena Hub Loader
+-- @orginpreach. Owns This Script
 
 local Support = {
     [4430449940] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Saber%20Showdown",
     [6931042565] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Haikyuu",
     [111958650] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Arsenal",
     [6701277882] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Fish%20It",
-    [1335695570] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Ninja%20Legends"
+    [1335695570] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/Ninja%20Legends",
+    [7326934954] = "https://raw.githubusercontent.com/Quartzdll/Athena-Hub/refs/heads/main/99%20Nights%20In%20The%20Forest"
     }
 
 local GameId = game.GameId
